@@ -1,0 +1,110 @@
+{
+  "projects": [
+    {
+      "id": "fc7d",
+      "name": "teste kowalski",
+      "budget": "3998",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 299,
+      "services": [
+        {
+          "name": "serviço kowalski 1",
+          "cost": "100",
+          "description": "é caro.",
+          "id": "facf3dc5-faff-4546-b044-9413b66afa9c"
+        },
+        {
+          "name": "serviço kowalski 2",
+          "cost": "199",
+          "description": "é bem caro.",
+          "id": "73455512-91ca-4d74-9b20-80e5b80d29b0"
+        }
+      ]
+    },
+    {
+      "id": "89b2",
+      "name": "phd Sports",
+      "budget": "25000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 11000,
+      "services": [
+        {
+          "name": "php sports",
+          "cost": "3000",
+          "description": "php ",
+          "id": "6c586eef-6a8e-4a0e-b6a8-0b5a51799b57"
+        },
+        {
+          "name": "php sports",
+          "cost": "3000",
+          "description": "php ",
+          "id": "6c586eef-6a8e-4a0e-b6a8-0b5a51799b57"
+        },
+        {
+          "name": "php sports",
+          "cost": "3000",
+          "description": "php ",
+          "id": "6c586eef-6a8e-4a0e-b6a8-0b5a51799b57"
+        },
+        {
+          "name": "php sports",
+          "cost": "1000",
+          "description": "php esportes",
+          "id": "170f6957-e988-40ca-b8e7-8f27951242bd"
+        },
+        {
+          "name": "php sports",
+          "cost": "1000",
+          "description": "php esportes",
+          "id": "170f6957-e988-40ca-b8e7-8f27951242bd"
+        }
+      ]
+    },
+    {
+      "id": "65f9",
+      "name": "smartfit",
+      "budget": "30000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ccc3",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "budget": "31998",
+      "name": "GoCoffee Caro",
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
